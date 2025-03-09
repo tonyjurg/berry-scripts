@@ -1,6 +1,7 @@
-# Neopixel (variant WS2812b)
+# Neopixel Animation
 
-Two strings of 11 LEDs (WS2812b)
+Two strings of 11 LEDs (WS2812b) running two animations.
+
 Microcontroler: Wemos S2 mini v1.0.0 flashed with [tasmota](https://templates.blakadder.com/s2_mini.html).
 
 [Script](autoexec.be) has in code comments.
